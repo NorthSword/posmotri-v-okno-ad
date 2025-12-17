@@ -1,0 +1,1 @@
+Репозиторий проекта находится по ссылке: https://github.com/NorthSword/posmotri-v-okno-ad
